@@ -1,5 +1,14 @@
-### Hi there 👋
+### 안녕하세요! 👋
 
+codingCup04의 Profile
+
+현재 개발 중인 웹: codingpro01.netlify.app
+#
+현재 개발 중인 게임 (Python): Galaga (w/ @injoon5)
+#
+흠.. 여기까지입니다!
+##
+Profile picture credit: Flaticon
 <!--
 **codingCup04/codingCup04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
