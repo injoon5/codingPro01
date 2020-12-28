@@ -6,6 +6,10 @@ codingCup04의 Profile
 #
 현재 개발 중인 게임 (Python): Galaga (w/ @injoon5)
 #
+공식 게시판은 여기
+https://padlet.com/1705525/notify
+있습니다.
+#
 흠.. 여기까지입니다!
 ##
 Profile picture credit: Flaticon
