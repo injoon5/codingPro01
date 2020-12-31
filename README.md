@@ -10,7 +10,10 @@ codingCup04의 Profile
 https://padlet.com/1705525/notify
 있습니다.
 #
-흠.. 여기까지입니다!
+개발 블로그:
+codingPro01.tistory.com
+일상 블로그:
+codingPro01-other.tistory.com
 ##
 Profile picture credit: Flaticon
 <!--
