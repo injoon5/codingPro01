@@ -15,7 +15,6 @@ codingPro01.tistory.com
 일상 블로그:
 codingPro01-other.tistory.com
 ##
-Profile picture credit: Flaticon
 <!--
 **codingCup04/codingCup04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
