@@ -1,8 +1,8 @@
 ### 안녕하세요! 👋
 
-codingCup04의 Profile
+codingPro01의 Profile
 
-현재 개발 중인 웹: codingpro01.netlify.app
+현재 개발 중인 웹: ???
 #
 현재 개발 중인 게임 (Python): Galaga (w/ @injoon5)
 #
