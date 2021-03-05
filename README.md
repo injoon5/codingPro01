@@ -6,9 +6,7 @@ codingPro01의 Profile
 #
 현재 개발 중인 게임 (Python): Galaga (w/ @injoon5)
 #
-공식 게시판은 [여기]
-(https://padlet.com/1705525/notify)
-있습니다.
+공식 게시판은 [여기](https://padlet.com/1705525/notify) 있습니다.
 #
 개발 블로그:
 http://codingPro01.tistory.com<br>
