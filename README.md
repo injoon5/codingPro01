@@ -4,7 +4,7 @@ codingPro01의 Profile
 
 현재 개발 중인 웹: ???
 #
-현재 개발 중인 게임 (Python): Galaga (w/ @injoon5)
+현재 개발 중인 게임 (Python): Galaga (w/ [@injoon5](http://github.com/injoon5)
 #
 공식 게시판은 [여기](https://padlet.com/1705525/notify) 있습니다.
 #
